@@ -43,7 +43,7 @@ namespace ThreeDoors
 
             Console.WriteLine("commiting to first choice:\n"+"poops: \n" + poops + "\nprizes: \n" + prizes);
 
-            Console.WriteLine("choosing again after one poop door is revealed:\n"+"Second choice poops: \n" + secondChoicePoop + "\nSecond choice prizes: \n" + secondChoicePrizes);
+            Console.WriteLine("\nflipping choice after one poop door is revealed:\n"+"Second choice poops: \n" + secondChoicePoop + "\nSecond choice prizes: \n" + secondChoicePrizes);
 
         }
         
